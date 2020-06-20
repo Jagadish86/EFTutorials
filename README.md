@@ -3,7 +3,7 @@ Created a sample POC to understand Entity Framework Database First Approach
 
 # Concepts of Entity Framework
 
-## EDM
+### EDM
 
 * Storage Model
 
