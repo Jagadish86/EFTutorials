@@ -1,15 +1,15 @@
 # EFTutorials
-POC on Entity Framework Database First Approach
+Created a sample POC to understand Entity Framework Database First Approach
 
-DbSet
+# Concepts of Entity Framework
 
-EDM
+## EDM
 
-Storage Model
+* Storage Model
 
-Conceptual Model
+* Conceptual Model
 
-Scalar Properties
+* Scalar Properties
 
-Navigation Properties
+* Navigation Properties
 
