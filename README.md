@@ -14,4 +14,7 @@ Created a sample POC to understand Entity Framework Database First Approach
 * Scalar Properties
 
 * Navigation Properties
+  
+  * Reference Navigation
+  * Collection Navigation
 
